@@ -1,0 +1,4 @@
+repository "Test SDK Project@muminelsayed@cloud"
+  path "/"
+    br "/main"
+    co "/main"
