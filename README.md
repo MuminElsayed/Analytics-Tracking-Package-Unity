@@ -15,7 +15,7 @@ A unity package to track game prototype stats for Android/IOS.
 1. Import the "TrackingManager" custom package.
 1. Add the "Tracking Manager" prefab to your hierarchy
 
-~~**FACEBOOK:**~~ (IGNORE, currently not working)
+~~**FACEBOOK:**~~ (IGNORE, crashes on initialization)
 1. Add the game to your developers account.
 2. Download and import the "Facebook Unity SDK" to your Unity project
 3. Add the "App Events" product to your game and follow it's integration steps.
