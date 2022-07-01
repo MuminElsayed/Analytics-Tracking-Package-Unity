@@ -1,7 +1,7 @@
 # Analytics Tracking Package Unity
 This is a unity tool that syncs and simplifies Unity game analytic tools in one place. (Currently Game Analytics and Facebook SDK).
 
-## Implementation Steps:
+## Installation Steps:
 
 **1. GAME ANALYTICS:**
 1. Create a Game Analytics account on: https://go.gameanalytics.com
