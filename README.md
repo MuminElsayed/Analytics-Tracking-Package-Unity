@@ -13,7 +13,8 @@ A unity package to track game prototype stats for Android/IOS.
 
 **TRACKING MANAGER:**
 1. Import the "TrackingManager" custom package.
-1. Add the "Tracking Manager" prefab to your hierarchy
+2. Add the "Tracking Manager" prefab to your hierarchy
+3. Add your Game keys to the tracking manager and press on "Sync Settings", this will save and sync your settings across all SDK's (Game key and secret key can be found in Game settings on the Game Analytics website)
 
 ~~**FACEBOOK:**~~ (IGNORE, crashes on initialization)
 1. Add the game to your developers account.
@@ -22,7 +23,6 @@ A unity package to track game prototype stats for Android/IOS.
 4. Note: if "OpenSSL not found" error appears in Facebook SDK, follow these steps: https://answers.unity.com/questions/616484/open-ssl-not-found.html
 
 ## Next Steps:
-* Add your Game keys to the tracking manager and press on "Sync Settings", this will save and sync your settings across all SDK's (Game key and secret key can be found in Game settings on the Game Analytics website)
 * Setup remote configs & A/B testing from Game Analytics website (more info here: https://gameanalytics.com/docs/s/article/A-B-Testing-Setup)
 * Add remote config keys to your game through the Tracking Manager
 
