@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/My Assets/Analytics Tracking Tool/Scenes/Demo.unity
+    guid: e3099bc332b0d214da8ece1c06c5af74
   m_configObjects: {}

@@ -26,21 +26,27 @@ MonoBehaviour:
   UserMessagesFailed: 0
   CustomArea: 
   gameKey:
-  - 843f4dfc7ff8698e3500c6f3ce33fc04
+  - a5fde74a353e18270bcf738d225c42f1
+  - ios key
   secretKey:
-  - 87308a00801ede45aa32274de5205c0f9e3f1e3a
+  - b52005ea74b0b7c9b0897912c6bd25ee41566e0d
+  - ios secret key
   Build:
-  - 0.1
+  - 0.2
+  - 0.2
   SelectedPlatformOrganization:
   - AE Games
+  - 
   SelectedPlatformStudio:
   - AE Games
+  - 
   SelectedPlatformGame:
-  - Test Analytics Tool
-  SelectedPlatformGameID: c5280300
-  SelectedOrganization: 01000000
-  SelectedStudio: 01000000
-  SelectedGame: 02000000
+  - Test Analytics
+  - 
+  SelectedPlatformGameID: 51280300ffffffff
+  SelectedOrganization: 0100000000000000
+  SelectedStudio: 0100000000000000
+  SelectedGame: 0100000000000000
   NewVersion: 
   Changes: 
   SignUpOpen: 0
@@ -62,7 +68,7 @@ MonoBehaviour:
   ResourceItemTypes: []
   ResourceCurrencies: []
   LastCreatedGamePlatform: -1
-  Platforms: 0b000000
+  Platforms: 0b00000008000000
   CurrentInspectorState: 1
   ClosedHints: 
   DisplayHints: 0
@@ -90,7 +96,7 @@ MonoBehaviour:
   IncludeGooglePlay: 1
   FpsCriticalThreshold: 20
   FpsCirticalSubmitInterval: 1
-  PlatformFoldOut: 01
+  PlatformFoldOut: 0101
   CustomDimensions01FoldOut: 0
   CustomDimensions02FoldOut: 0
   CustomDimensions03FoldOut: 0
