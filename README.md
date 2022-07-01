@@ -32,5 +32,6 @@ This is a unity tool that syncs and simplifies Unity game analytic tools in one 
 
 ## Notes:
 * Facebook Unity SDK causes errors, and crashes the editor on initialization, I'm not sure if it's still up to date or not. I have added the integration steps for it but commented them out until it is fixed.
+* I should've seperated the Editor only scripts from runtime scripts in the Tracking Manager, but I messed up at the start and didn't have time to re-do it 😢
 * If you are using Proguard for Android follow these steps (at the end of the page: https://gameanalytics.com/docs/s/article/Integration-Unity-SDK#install)
 Facebook Unity SDK currently crashing on initilization in an empty project.
